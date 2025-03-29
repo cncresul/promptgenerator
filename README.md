@@ -2,7 +2,7 @@
 
 ## 🚀 Yapay Zeka Destekli Prompt Üretici
 
-**AI Prompt Generator**, kullanıcıların etkili ve detaylı yapay zeka prompt’ları oluşturmasını sağlayan güçlü bir araçtır. Python tabanlı bu uygulama, OpenAI modelleri ile optimize edilmiştir ve kullanıcı dostu bir arayüze sahiptir.
+**AI Prompt Generator**, kullanıcıların etkili ve detaylı yapay zeka prompt’ları oluşturmasını sağlayan güçlü bir araçtır. JavaScript ile geliştirilmiş olup, API destekli bir yapı sunmaktadır.
 
 ---
 
@@ -24,20 +24,20 @@ Bu projeyi kullanabilmek için aşağıdaki adımları takip edebilirsiniz:
 ### 1️⃣ Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/kullaniciadi/ai-prompt-generator.git
-cd ai-prompt-generator
+git clone https://github.com/cncresul/promptgenerator.git
+cd promptgenerator
 ```
 
 ### 2️⃣ Gerekli Bağımlılıkları Yükleyin
 
 ```bash
-pip install -r requirements.txt
+npm install
 ```
 
 ### 3️⃣ Uygulamayı Çalıştırın
 
 ```bash
-python main.py
+node server.js
 ```
 
 ---
@@ -80,10 +80,10 @@ Projeye katkıda bulunmak için aşağıdaki adımları takip edebilirsiniz:
 
 ## 📩 İletişim
 
-📧 E-posta: [email@example.com](mailto\:email@example.com)\
+📧 E-posta: [email@example.com](mailto:email@example.com)  
 📱 WhatsApp: +90 555 555 55 55
 
 ---
 
-**🔗 **[**GitHub Repo Adresi**](https://github.com/kullaniciadi/ai-prompt-generator)
+**🔗 [GitHub Repo Adresi](https://github.com/kullaniciadi/ai-prompt-generator)**
 
