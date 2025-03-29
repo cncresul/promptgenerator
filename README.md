@@ -77,13 +77,3 @@ Projeye katkıda bulunmak için aşağıdaki adımları takip edebilirsiniz:
 4. **Pull request** gönderin.
 
 ---
-
-## 📩 İletişim
-
-📧 E-posta: [email@example.com](mailto:email@example.com)  
-📱 WhatsApp: +90 555 555 55 55
-
----
-
-**🔗 [GitHub Repo Adresi](https://github.com/kullaniciadi/ai-prompt-generator)**
-
